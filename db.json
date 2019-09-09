@@ -1,0 +1,24 @@
+{
+    "records": 3,
+    "spool_no": "241-DC-1055-M110-SPL002",
+    "data": [
+    	{
+    		"request_no": "123456-12345-df12222",
+    		"joint_no": "002",
+    		"joint_id": "0987650G-DVFGHJJHG-JHVGHJ2232BV",
+    		"expire_date": "2019-01-01"
+    	},
+    	{
+    		"request_no": "123456-12345-df12223",
+    		"joint_no": "002",
+    		"joint_id": "0987650G-DVFGHJJHG-JHVGHJ2232BV",
+    		"expire_date": "2019-01-02"
+    	},
+    	{
+    		"request_no": "123456-12345-df12224",
+    		"joint_no": "002",
+    		"joint_id": "0987650G-DVFGHJJHG-JHVGHJ2232BV",
+    		"expire_date": "2019-01-03"
+    	}
+    ]
+}
